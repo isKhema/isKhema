@@ -27,7 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## KHEMΛ
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+My name is Khémara and I live near Nantes, France 👋 I am a communication student but I am very interested in new technologies. I learned everything in my free time and now specialize in web development. On my GitHub profile, you will have the opportunity to discover many of my projects carried out with different technologies and different objectives. I hope you will like it 🤙
+
+
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
