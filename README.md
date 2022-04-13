@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- ABOUT THE PROJECT -->
-## KHEMΛ
+## KHEMΛ ⚖
 
 My name is Khémara and I live near Nantes, France 👋 I am a communication student but I am very interested in new technologies. I learned everything in my free time and now specialize in web development. On my GitHub profile, you will have the opportunity to discover many of my projects carried out with different technologies and different objectives. I hope you will like it 🤙
 
