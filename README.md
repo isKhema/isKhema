@@ -32,14 +32,6 @@ Currently :
 
 
 
-
-
-
-
-
-
-
-<!-- ROADMAP -->
 ## Roadmap
 
 - [x] Add Changelog
