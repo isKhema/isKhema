@@ -15,14 +15,14 @@ My name is Khémara and I live near Nantes, France 👋 I am a communication stu
 
 
 Currently :
-* 📚 Student in communication and learning TypeScript
+* 📚 Student in communication and learning `TypeScript`
 * 💻 Developing my personnal [website](https://softonware.eu/)
 * 🔧 Creating a new open-source discord bot in `JavaScript`
 
 
 
 
-### Built With
+### Programming languages & development tools
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
