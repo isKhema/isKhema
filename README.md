@@ -14,10 +14,10 @@ My name is Khémara and I live near Nantes, France 👋 I am a communication stu
 
 
 
-Actuellement en cours :
-* 📚 Student in communication
+Currently :
+* 📚 Student in communication and learning TypeScript
 * 💻 Developing my personnal [website](https://softonware.eu/)
-* 🔧 Creating a new open-source discord bot in `javascript`
+* 🔧 Creating a new open-source discord bot in `JavaScript`
 
 
 
