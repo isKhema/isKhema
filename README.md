@@ -28,5 +28,4 @@ Currently :
 
 
 
-<!-- CONTACT -->
 ### Contact
